@@ -26,7 +26,7 @@
 \usepackage{nicefrac}       % compact symbols for 1/2, etc.
 \usepackage{microtype}      % microtypography
 
-\title{Using Developmental Realism and Embodiment for Neural Network Emergence}
+\title{Bio-inspired Embodied Continual Learning Across Developmental Time}
 
 % The \author macro works with any number of authors. There are two commands
 % used to separate the names and addresses of multiple authors: \And and \AND.
@@ -41,28 +41,33 @@
     about author (webpage, alternative address)---\emph{not} for acknowledging
     funding agencies.} \\
   Orthogonal Research and Education Laboratory\\
-  Champaign, IL 61821 \\
+  Champaign, IL USA \\
   \texttt{bradly.alicea@outlook.com} \\
   % examples of more authors
 \And
   Rishabh Chakraborty \\
-  Orthogonal Research and Education Laboratory \\
-  INDIA \\
+  Manipal Academy Of Higher Education \\
+  Manipal, INDIA \\
    \texttt{exynos999@outlook.com} \\
 \And
   Akshara Gopi \\
-  Orthogonal Research and Education Laboratory \\
-  INDIA \\
+  Manipal Academy Of Higher Education \\
+  Manipal, INDIA \\
    \texttt{akshdocs@gmail.com} \\
 \And
+  Anson Z. Lim \\
+  Western Michigan University \\
+  Kalamazoo, MI USA \\
+   \texttt{ansonzlim@gmail.com} \\
+\And
   Furkan Ozcelik \\
-  Orthogonal Research and Education Laboratory \\
-  FRANCE \\
+  The Brain and Cognition Center \\
+  Toulouse, FRANCE \\
    \texttt{ozcelikfu@gmail.com} \\
 \And
   Jesse Parent \\
   Orthogonal Research and Education Laboratory \\
-  Saratoga Springs, NY \\
+  Saratoga Springs, NY USA \\
    \texttt{jtparent2018@gmail.com} \\
 \AND
 
@@ -73,7 +78,7 @@
 \maketitle
 
 \begin{abstract}
-There is much to explore through synthesis of Artificial Intelligence with traditional aspects of Developmental Biology, Cognitive Science and Developmental Robotics. One lesson gleaned from this perspective is that the initialization of intelligent programs cannot solely rely on the manipulation of many parameters. One path forward is to propose a design for developmentally-inspired learning agents based on the Braitenberg Vehicle. Using these agents to exemplify artificial embodied intelligence, we move closer to modeling embodied experience and morphogenetic growth as components of cognitive capacity. We consider various factors regarding biological and cognitive development  which influence the generation of  adult phenotypes and the contingency of available developmental pathways. These mechanisms produce emergent connectivity with shifting weights and adaptive network topography, thus illustrates the importance of developmental processes in training neural networks. This approach suggests novelty in deep learning architectures might result from exploiting critical periods, embodiment, and a distinction between the assembly of neural networks and active learning on these networks.
+There is much to explore through synthesis of Artificial Intelligence with traditional aspects of Developmental Biology, Cognitive Science and Developmental Robotics. One lesson gleaned from this perspective is that the initialization of intelligent programs cannot solely rely on the manipulation of many parameters. Our path forward is to present a design for developmentally-inspired learning agents based on the Braitenberg Vehicle. Using these agents to exemplify artificial embodied intelligence, we move closer to modeling embodied experience and morphogenetic growth as components of cognitive capacity. We consider various factors regarding biological and cognitive development which influence the generation of  adult phenotypes and the contingency of available developmental pathways. These mechanisms produce emergent connectivity with shifting weights and adaptive network topography, thus illustrating the importance of developmental processes in training neural networks. This approach suggests novelty in deep learning architectures might result from exploiting critical periods, embodiment, and a distinction between the assembly of neural networks and active learning on these networks. 
 \end{abstract}
 
 \section{Introduction}
@@ -167,9 +172,13 @@ Aside from taking advantage of changes in timing, our developmental system also 
 
 \subsection*{Reinforcement Learning (RL)}
 
-\subsubsection*{Comparison with Formal RL Models}
+\subsubsection*{Consideration of RL as a model for developmental learning}
 
-Our dBV model can be contrasted with the dual world/self model of [30]. In our case, we can benefit from reinforcement learning through disentangling the intrinsic and learned contributions of the developmental process on adult behaviors.
+We argue that this constant interaction with the environment scaled with time plays a significant role in the development process of the dBVs. Our dBV model can be contrasted with the dual world/self model of [30]. In our case, we can benefit from reinforcement learning through disentangling the intrinsic and learned representations which contribute to the developmental process of adult behaviors. 
+
+Rather than the Genetic Algorithm/GHA implementation, implementation of a model-free Reinforcement Learning paradigm is possible, where the continuous sensorimotor space grows temporally; this approach is more continuous across developmental time and work while the agent is learning a policy. In such a case, learning could be optimized as a function of morphogenetic growth. This might improve performance in the adult phenotype. As for the effects of critical period timing, maximizing the consequences of sensory feedback during this time would allow us to take advantage of the correspondingly intense rate of morphogenetic growth.
+
+Developmental Braitenberg vehicles are bio-inspired models that navigate and constantly interact with their environment. To implement an RL model of dBV learning, we can appeal to the principle of parallel, loosely coupled processes. This principle states that intelligence emerges from the agents' interactions with the environment. These interactions are based on loosely coupled processes run in parallel and connected directly to the sensory-motor apparatus of the agent. However this continuous sensorimotor space which is inflated with time along with the large continuous action spaces makes it difficult to learn good strategies (train optimal policies) to perform a task, some approaches have been proposed to counter this problem- for instance, adding developmental layers to the neural networks this could help the agent to learn better policies, embedding information about the source task in the reward function and also applying other curriculum learning techniques which we believe requires further consideration.
 
 \section*{Broader Impact}
 This paper contributes to a new branch of research on developmental Braitenberg Vehicles. This work is valuable in terms of both simulating the development of biological nervous systems (particularly small connectomes) and as an educational tool that advances Developmental Neuroscience instruction. This extended abstract also has a number of potential applications to data science problems, particularly ones that involve the analysis of environmental data with context. The benefits of applying developmental Braitenberg Vehicles to these types of datasets include (but are not limited to) the following issues
