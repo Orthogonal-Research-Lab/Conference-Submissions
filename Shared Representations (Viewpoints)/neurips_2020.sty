@@ -21,24 +21,24 @@
 \ProvidesPackage{neurips_2020}[2020/01/31 NeurIPS 2020 submission/camera-ready style file]
 
 % declare final option, which creates camera-ready copy
-\newif\if@neuripsfinal\@neuripsfinalfalse
-\DeclareOption{final}{
-  \@neuripsfinaltrue
+% \newif\if@neuripsfinal\@neuripsfinalfalse
+% \DeclareOption{final}{
+%  \@neuripsfinaltrue
 }
 
 % declare nonatbib option, which does not load natbib in case of
 % package clash (users can pass options to natbib via
 % \PassOptionsToPackage)
-\newif\if@natbib\@natbibtrue
-\DeclareOption{nonatbib}{
-  \@natbibfalse
+% \newif\if@natbib\@natbibtrue
+% \DeclareOption{nonatbib}{
+%  \@natbibfalse
 }
 
 % declare preprint option, which creates a preprint version ready for
 % upload to, e.g., arXiv
-\newif\if@preprint\@preprintfalse
-\DeclareOption{preprint}{
-  \@preprinttrue
+% \newif\if@preprint\@preprintfalse
+% \DeclareOption{preprint}{
+% \@preprinttrue
 }
 
 \ProcessOptions\relax
@@ -68,18 +68,16 @@
 % handle tweaks for camera-ready copy vs. submission copy
 \if@preprint
   \newcommand{\@noticestring}{%
-    Preprint. Under review.%
+    Preprint. Under review at the 2nd Shared Visual Representations in Human and Machine Intelligence (SVRHM) Workshop at NeurIPS 2020.%
   }
 \else
   \if@neuripsfinal
     \newcommand{\@noticestring}{%
-      \@neuripsordinal\/ Conference on Neural Information Processing Systems
-      (NeurIPS \@neuripsyear), \@neuripslocation.%
+     2nd Workshop on Shared Visual Representations in Human and Machine Intelligence (SVRHM), NeurIPS \@neuripsyear.%
     }
   \else
     \newcommand{\@noticestring}{%
-      Submitted to \@neuripsordinal\/ Conference on Neural Information
-      Processing Systems (NeurIPS \@neuripsyear). Do not distribute.%
+      Submitted to 2nd Workshop on Shared Visual Representations in Human and Machine Intelligence (SVRHM).%
     }
 
     % hide the acknowledgements
