@@ -1,6 +1,6 @@
 ### Contents
 
-Super Neuromatch (NM3): "[Approaching Artificial Intelligence as an Embodied Developmental Process](https://github.com/Orthogonal-Research-Lab/Conference-Submissions/blob/master/Neuromatch-abstract.md)"
+Super Neuromatch (NM3), October 2020: "[Approaching Artificial Intelligence as an Embodied Developmental Process](https://github.com/Orthogonal-Research-Lab/Conference-Submissions/blob/master/Neuromatch-abstract.md)"
 
 BabyMinds 2020 Workshop (NeurIPS): "[Bio-inspired Embodied Continual Learning Across Developmental Time](https://github.com/Orthogonal-Research-Lab/Conference-Submissions/blob/master/BabyMinds%20(Developmental%20Realism)/NeurIPS-BabyMinds-submission.tex)"
 
