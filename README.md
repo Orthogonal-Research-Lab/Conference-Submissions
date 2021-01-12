@@ -8,6 +8,6 @@ Shared Visual Representations 2020 Workshop (NeurIPS): "[Observer-dependent Coll
 
 In progress submission to Cogsci 2021: "[Gibsonian Information](https://github.com/Orthogonal-Research-Lab/Conference-Submissions/tree/master/Gibsonian%20Information)"
 
-In progress submission to Emergent Interaction Workshop (SIGCHI): "[Gibsonian Information](https://github.com/Orthogonal-Research-Lab/Conference-Submissions/tree/master/Gibsonian%20Information)"
+In progress submission to Emergent Interaction Workshop (SIGCHI): "[Allostasis Machines](https://github.com/Orthogonal-Research-Lab/Conference-Submissions/tree/master/Allostasis-Machines)"
 
 Conference Submissions task board  [link](https://github.com/Orthogonal-Research-Lab/Conference-Submissions/projects/1)
