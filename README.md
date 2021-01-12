@@ -6,4 +6,8 @@ BabyMinds 2020 Workshop (NeurIPS): "[Bio-inspired Embodied Continual Learning Ac
 
 Shared Visual Representations 2020 Workshop (NeurIPS): "[Observer-dependent Collective Behavior For Biologically-inspired Processing Models}](https://github.com/Orthogonal-Research-Lab/Conference-Submissions/blob/master/Shared%20Representations%20(Viewpoints)/NeurIPS-shared-representations.tex)"
 
+In progress submission to Cogsci 2021: "[Gibsonian Information](https://github.com/Orthogonal-Research-Lab/Conference-Submissions/tree/master/Gibsonian%20Information)"
+
+In progress submission to Emergent Interaction Workshop (SIGCHI): "[Gibsonian Information](https://github.com/Orthogonal-Research-Lab/Conference-Submissions/tree/master/Gibsonian%20Information)"
+
 Conference Submissions task board  [link](https://github.com/Orthogonal-Research-Lab/Conference-Submissions/projects/1)
