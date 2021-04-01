@@ -4,7 +4,7 @@ Super Neuromatch (NM3), October 2020: "[Approaching Artificial Intelligence as a
 
 BabyMinds 2020 Workshop (NeurIPS): "[Bio-inspired Embodied Continual Learning Across Developmental Time](https://github.com/Orthogonal-Research-Lab/Conference-Submissions/blob/master/BabyMinds%20(Developmental%20Realism)/NeurIPS-BabyMinds-submission.tex)"
 
-Shared Visual Representations 2020 Workshop (NeurIPS): "[Observer-dependent Collective Behavior For Biologically-inspired Processing Models}](https://github.com/Orthogonal-Research-Lab/Conference-Submissions/blob/master/Shared%20Representations%20(Viewpoints)/NeurIPS-shared-representations.tex)"
+Open Review: "[Observer-dependent Collective Behavior For Biologically-inspired Processing Models}](https://openreview.net/forum?id=FiwgkEEmXOg)"
 
 In progress submission to Cogsci 2021: "[Gibsonian Information](https://github.com/Orthogonal-Research-Lab/Conference-Submissions/tree/master/Gibsonian%20Information)"
 
