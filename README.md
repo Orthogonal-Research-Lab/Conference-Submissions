@@ -10,4 +10,6 @@ In progress submission to Cogsci 2021: "[Gibsonian Information](https://github.c
 
 In progress submission to Emergent Interaction Workshop (SIGCHI): "[Allostasis Machines](https://github.com/Orthogonal-Research-Lab/Conference-Submissions/tree/master/Allostasis-Machines)"
 
+Embodied Intelligence (EI) Workshop - March, 2021: "[Approaches to Developmental Embodied Neurosimulation]()"
+
 Conference Submissions task board  [link](https://github.com/Orthogonal-Research-Lab/Conference-Submissions/projects/1)
