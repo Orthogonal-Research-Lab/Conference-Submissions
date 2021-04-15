@@ -2,7 +2,7 @@
   <img height = 70% width = %70 src = "https://github.com/Orthogonal-Research-Lab/Conference-Submissions/blob/master/Allostasis-Machines/Emergent-Interaction-Workshop/Presentation/Slide1.png">
 </p>
 <p align=center>
-  <img height = 70% width = %70 src = "https://github.com/Orthogonal-Research-Lab/Conference-Submissions/blob/master/Allostasis-Machines/Emergent-Interaction-Workshop/Presentation/Slide2.png">
+  <img height = 70% width = %70 src = "https://github.com/Orthogonal-Research-Lab/Conference-Submissions/blob/master/Allostasis-Machines/Emergent-Interaction-Workshop/Presentation/Slide-Two.png">
 </p>
 <p align=center>
   <img height = 70% width = %70 src = "https://github.com/Orthogonal-Research-Lab/Conference-Submissions/blob/master/Allostasis-Machines/Emergent-Interaction-Workshop/Presentation/Slide3.png">
