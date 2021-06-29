@@ -1,4 +1,4 @@
-<P "align-center">
+<P align-center>
   <IMG SRC="https://github.com/Orthogonal-Research-Lab/Conference-Submissions/blob/master/Growing%20Academic%20Open-source/Network%20Architectures%20for%20Academic%20Open-source.001.png">
 </P>
 <P "align-center">
