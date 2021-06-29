@@ -125,5 +125,5 @@
   <IMG SRC="https://github.com/Orthogonal-Research-Lab/Conference-Submissions/blob/master/Growing%20Academic%20Open-source/Network%20Architectures%20for%20Academic%20Open-source.042.png">
 </P>
 <P align="center">
-  <IMG width = "85%" height = "85%" SRC="https://github.com/Orthogonal-Research-Lab/Conference-Submissions/blob/master/Growing%20Academic%20Open-source/Network%20Architectures%20for%20Academic%20Open-source.043.png">
+  <IMG width = "60%" height = "60%" SRC="https://github.com/Orthogonal-Research-Lab/Conference-Submissions/blob/master/Growing%20Academic%20Open-source/Network%20Architectures%20for%20Academic%20Open-source.043.png">
 </P>
